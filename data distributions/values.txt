@@ -1,0 +1,5 @@
+min width vaue  22  for  3 samples.   mean value  56.98334858188472
+min height vaue  25  for  32 samples.   mean value  56.77191216834401
+max width vaue  517  for  1 samples.   std value  33.39235271028502
+max height vaue  695  for  1 samples.   std value  35.544761127972414
+Mode X:  35    Mode Y:  33

@@ -1,0 +1,28 @@
+                         precision    recall  f1-score   support
+
+         Speed limit 20       1.00      0.67      0.80         6
+         Speed limit 50       0.95      0.99      0.97       111
+         Speed limit 70       1.00      0.95      0.97       220
+          no Overtaking       0.97      0.91      0.94        66
+             Roundabout       1.00      0.92      0.96        12
+          Priority road       0.83      0.67      0.74        15
+               Give way       0.65      1.00      0.79        28
+                   Stop       0.39      0.70      0.50        10
+            Road closed       1.00      1.00      1.00         9
+no Heavy goods vehicles       0.83      1.00      0.91        25
+               no Entry       1.00      0.75      0.86        12
+              Obstacles       1.00      1.00      1.00         4
+        Left hand curve       0.98      0.99      0.99       245
+       Right hand curve       0.99      0.90      0.95       124
+    Kepp straight ahead       0.95      1.00      0.97        75
+          Slippery road       0.90      0.88      0.89        65
+          Keep straight       0.98      1.00      0.99       188
+     Construction ahead       0.97      1.00      0.99       117
+             Rough road       0.83      1.00      0.91        45
+         Traffic lights       1.00      0.81      0.89        89
+           School ahead       0.92      1.00      0.96        24
+
+               accuracy                           0.95      1490
+              macro avg       0.91      0.91      0.90      1490
+           weighted avg       0.96      0.95      0.95      1490
+
